@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Allwayz's GitHub stats](https://github-readme-stats.vercel.app/api?username=allwayz)](https://github.com/Allwayz)
+[![Allwayz's GitHub stats](https://github-readme-stats.vercel.app/api?username=allwayz&hide=stars,contribs&count_private=true&show_icons=true&theme=vue)](https://github.com/Allwayz)
 
 <!--
 **Allwayz/allwayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 -->
