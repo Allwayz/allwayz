@@ -1,0 +1,54 @@
+version: "2026.09"
+profile:
+  name: "ALLWAYZ OS"
+  subtitle: "Personal Development Environment"
+  locale: "zh-CN"
+
+systems:
+  - id: homestay-os
+    name: "Homestay OS"
+    zh: "民宿经营管理系统"
+    type: "core"
+    status: "active"
+    visibility: "private"
+    stack: ["React", "TypeScript", "Spring Boot", "MariaDB", "IoT"]
+
+  - id: energy-infrastructure
+    name: "Energy Infrastructure"
+    zh: "NB-IoT 水电采集与运行基础设施"
+    type: "infrastructure"
+    status: "running"
+    visibility: "private"
+    stack: ["Java", "Spring Boot", "CTWing", "Docker", "ARM64"]
+
+  - id: rental-ledger-mcp
+    name: "Rental Ledger MCP"
+    zh: "面向 AI Agent 的 CS 饰品租赁账本"
+    type: "infrastructure"
+    status: "running"
+    visibility: "private"
+    stack: ["Go", "SQLite", "MCP", "Raspberry Pi"]
+
+  - id: agentic-coding-benchmark
+    name: "Agentic Coding Benchmark"
+    zh: "用统一工程任务测试 Model × Harness 的真实执行能力"
+    type: "lab"
+    status: "experimental"
+    visibility: "private"
+    stack: ["React", "TypeScript", "Express", "Vitest", "Agents"]
+
+  - id: mnemosyne
+    name: "Mnemosyne"
+    zh: "面向人和 AI Agent 的个人知识基础设施"
+    type: "lab"
+    status: "active"
+    visibility: "private"
+    stack: ["Obsidian", "Markdown", "Knowledge System", "Agents"]
+
+  - id: quant-lab
+    name: "Quant Lab"
+    zh: "市场数据与多智能体量化实验"
+    type: "lab"
+    status: "paused"
+    visibility: "private"
+    stack: ["Python", "FastAPI", "React", "Market Data"]
